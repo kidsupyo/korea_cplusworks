@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "ChoiceLoop\\ForEx1.cpp",
               "ToolTip": "C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\ForEx1.cpp",
               "RelativeToolTip": "ChoiceLoop\\ForEx1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-23T01:43:43.592Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "ChoiceLoop\\KeyRepeat.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-23T01:27:57.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T01:27:57.746Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "ChoiceLoop\\WhileEx1.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-23T01:05:12.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T01:05:12.09Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "ChoiceLoop\\SwitchCaseEx2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-23T00:46:24.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T00:46:24.671Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "ChoiceLoop\\SwitchCaseEx1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-23T00:37:31.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T00:37:31.22Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "ChoiceLoop\\IfElseEx2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-23T00:22:20.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T00:22:20.405Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "ChoiceLoop\\IfElseEx.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-23T00:09:13.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T00:09:13.149Z"
             }
           ]
         }
