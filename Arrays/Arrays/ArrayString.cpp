@@ -2,7 +2,7 @@
 using namespace std;
 # include <string>
 
-int main()
+int main_1()
 {
 	// 문자열 배열 관리
 	//string cart = "라면";
@@ -16,6 +16,9 @@ int main()
 
 	// 특정 요소 겸색
 	cout << carts[2] << endl;
+
+	// 특정 요소 수정
+	carts[1] = "쌀";
 
 	// 전체 요소 검색
 	for (int i = 0; i < size(carts); i++)
