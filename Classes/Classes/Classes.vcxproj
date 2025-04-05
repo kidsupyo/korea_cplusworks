@@ -127,10 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BirthdayThis.cpp" />
     <ClCompile Include="Book1.cpp" />
     <ClCompile Include="Books.cpp" />
     <ClCompile Include="Dog1.cpp" />
     <ClCompile Include="Dog2.cpp" />
+    <ClCompile Include="PointerCircle.cpp" />
+    <ClCompile Include="Transport.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
