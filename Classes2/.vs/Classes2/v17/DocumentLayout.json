@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\Classes2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADFF738-403E-4F58-8ED2-E4B2A93F85A3}|Classes2\\Classes2.vcxproj|C:\\cplusworks\\Classes2\\Classes2\\StaticEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6ADFF738-403E-4F58-8ED2-E4B2A93F85A3}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\StaticEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADFF738-403E-4F58-8ED2-E4B2A93F85A3}|Classes2\\Classes2.vcxproj|C:\\cplusworks\\Classes2\\Classes2\\StaticEx3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6ADFF738-403E-4F58-8ED2-E4B2A93F85A3}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\StaticEx3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaticEx3.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Classes2\\Classes2\\StaticEx3.cpp",
+              "RelativeDocumentMoniker": "Classes2\\StaticEx3.cpp",
+              "ToolTip": "C:\\cplusworks\\Classes2\\Classes2\\StaticEx3.cpp",
+              "RelativeToolTip": "Classes2\\StaticEx3.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswCEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T00:46:17.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaticEx1.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Classes2\\Classes2\\StaticEx1.cpp",
+              "RelativeDocumentMoniker": "Classes2\\StaticEx1.cpp",
+              "ToolTip": "C:\\cplusworks\\Classes2\\Classes2\\StaticEx1.cpp",
+              "RelativeToolTip": "Classes2\\StaticEx1.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T00:09:35.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
