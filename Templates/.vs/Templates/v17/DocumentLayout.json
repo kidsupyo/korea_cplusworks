@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\cplusworks\\Templates\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|C:\\cplusworks\\Templates\\Templates\\AutoType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|solutionrelative:Templates\\AutoType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|C:\\cplusworks\\Templates\\Templates\\MapEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|solutionrelative:Templates\\MapEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|C:\\cplusworks\\Templates\\Templates\\VectorEx3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|solutionrelative:Templates\\VectorEx3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|C:\\cplusworks\\Templates\\Templates\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|solutionrelative:Templates\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|C:\\cplusworks\\Templates\\Templates\\VecEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|solutionrelative:Templates\\VecEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|C:\\cplusworks\\Templates\\Templates\\VectorEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|solutionrelative:Templates\\VectorEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|C:\\cplusworks\\Templates\\Templates\\TemplateEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|solutionrelative:Templates\\TemplateEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|C:\\cplusworks\\Templates\\Templates\\TemplateEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|solutionrelative:Templates\\TemplateEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|C:\\cplusworks\\Templates\\Templates\\TemplateEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|solutionrelative:Templates\\TemplateEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|C:\\cplusworks\\Templates\\Templates\\VectorEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|solutionrelative:Templates\\VectorEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|C:\\cplusworks\\Templates\\Templates\\VecEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0409775F-0BDE-4A42-B849-9951326A767E}|Templates\\Templates.vcxproj|solutionrelative:Templates\\VecEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,19 +47,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AutoType.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Templates\\Templates\\AutoType.cpp",
+              "RelativeDocumentMoniker": "Templates\\AutoType.cpp",
+              "ToolTip": "C:\\cplusworks\\Templates\\Templates\\AutoType.cpp",
+              "RelativeToolTip": "Templates\\AutoType.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T01:44:10.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapEx1.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Templates\\Templates\\MapEx1.cpp",
+              "RelativeDocumentMoniker": "Templates\\MapEx1.cpp",
+              "ToolTip": "C:\\cplusworks\\Templates\\Templates\\MapEx1.cpp",
+              "RelativeToolTip": "Templates\\MapEx1.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswC8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T01:26:06.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VectorEx3.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Templates\\Templates\\VectorEx3.cpp",
+              "RelativeDocumentMoniker": "Templates\\VectorEx3.cpp",
+              "ToolTip": "C:\\cplusworks\\Templates\\Templates\\VectorEx3.cpp",
+              "RelativeToolTip": "Templates\\VectorEx3.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswDIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T01:04:54.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BankAccount.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Templates\\Templates\\BankAccount.cpp",
               "RelativeDocumentMoniker": "Templates\\BankAccount.cpp",
               "ToolTip": "C:\\cplusworks\\Templates\\Templates\\BankAccount.cpp",
               "RelativeToolTip": "Templates\\BankAccount.cpp",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAFIAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAswEwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-06T02:27:13.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "VecEx2.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Templates\\Templates\\VecEx2.cpp",
               "RelativeDocumentMoniker": "Templates\\VecEx2.cpp",
@@ -60,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "VectorEx1.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Templates\\Templates\\VectorEx1.cpp",
               "RelativeDocumentMoniker": "Templates\\VectorEx1.cpp",
@@ -68,11 +119,12 @@
               "RelativeToolTip": "Templates\\VectorEx1.cpp",
               "ViewState": "AgIAAA0AAAAAAAAAAAAswCoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-06T01:42:09.38Z"
+              "WhenOpened": "2025-04-06T01:42:09.38Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TemplateEx2.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Templates\\Templates\\TemplateEx2.cpp",
               "RelativeDocumentMoniker": "Templates\\TemplateEx2.cpp",
@@ -80,7 +132,8 @@
               "RelativeToolTip": "Templates\\TemplateEx2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-06T01:31:12.6Z"
+              "WhenOpened": "2025-04-06T01:31:12.6Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -92,7 +145,8 @@
               "RelativeToolTip": "Templates\\TemplateEx1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-06T01:21:54.21Z"
+              "WhenOpened": "2025-04-06T01:21:54.21Z",
+              "EditorCaption": ""
             }
           ]
         }

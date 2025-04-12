@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F755E9CE-AB1E-460B-A198-8CDD143CA09A}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\SaleStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F755E9CE-AB1E-460B-A198-8CDD143CA09A}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\SaleStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F755E9CE-AB1E-460B-A198-8CDD143CA09A}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\CarTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F755E9CE-AB1E-460B-A198-8CDD143CA09A}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\CarTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F755E9CE-AB1E-460B-A198-8CDD143CA09A}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\StudentTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F755E9CE-AB1E-460B-A198-8CDD143CA09A}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\StudentTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F755E9CE-AB1E-460B-A198-8CDD143CA09A}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\StudentTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F755E9CE-AB1E-460B-A198-8CDD143CA09A}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\StudentTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaleStatement.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\SaleStatement.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\SaleStatement.cpp",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\SaleStatement.cpp",
+              "RelativeToolTip": "Inheritance\\SaleStatement.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T02:43:54.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarTest.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\CarTest.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\CarTest.cpp",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\CarTest.cpp",
+              "RelativeToolTip": "Inheritance\\CarTest.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T02:33:32.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentTest2.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\StudentTest2.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\StudentTest2.cpp",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\StudentTest2.cpp",
+              "RelativeToolTip": "Inheritance\\StudentTest2.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswDUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T02:23:14.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentTest.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\StudentTest.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\StudentTest.cpp",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\StudentTest.cpp",
+              "RelativeToolTip": "Inheritance\\StudentTest.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswC8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T02:05:05.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

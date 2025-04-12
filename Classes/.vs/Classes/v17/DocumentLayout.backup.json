@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\cplusworks\\Classes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|C:\\cplusworks\\Classes\\Classes\\InputPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|solutionrelative:Classes\\InputPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|C:\\cplusworks\\Classes\\Classes\\MemberService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|solutionrelative:Classes\\MemberService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|C:\\cplusworks\\Classes\\Classes\\Transport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|solutionrelative:Classes\\Transport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|C:\\cplusworks\\Classes\\Classes\\PointerCircle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|solutionrelative:Classes\\PointerCircle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|C:\\cplusworks\\Classes\\Classes\\BirthdayThis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|solutionrelative:Classes\\BirthdayThis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|C:\\cplusworks\\Classes\\Classes\\Books.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|solutionrelative:Classes\\Books.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|C:\\cplusworks\\Classes\\Classes\\Book1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|solutionrelative:Classes\\Book1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|C:\\cplusworks\\Classes\\Classes\\Dog1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|solutionrelative:Classes\\Dog1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|C:\\cplusworks\\Classes\\Classes\\Dog2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|solutionrelative:Classes\\Dog2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|C:\\cplusworks\\Classes\\Classes\\Dog1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|solutionrelative:Classes\\Dog1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|C:\\cplusworks\\Classes\\Classes\\Book1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|solutionrelative:Classes\\Book1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|C:\\cplusworks\\Classes\\Classes\\Books.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|solutionrelative:Classes\\Books.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|C:\\cplusworks\\Classes\\Classes\\BirthdayThis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|solutionrelative:Classes\\BirthdayThis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|C:\\cplusworks\\Classes\\Classes\\PointerCircle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39397E6E-4F55-472E-8CD2-DD8001BCF671}|Classes\\Classes.vcxproj|solutionrelative:Classes\\PointerCircle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,19 +51,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InputPoint.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Classes\\Classes\\InputPoint.cpp",
+              "RelativeDocumentMoniker": "Classes\\InputPoint.cpp",
+              "ToolTip": "C:\\cplusworks\\Classes\\Classes\\InputPoint.cpp*",
+              "RelativeToolTip": "Classes\\InputPoint.cpp*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T00:27:56.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberService.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Classes\\Classes\\MemberService.cpp",
+              "RelativeDocumentMoniker": "Classes\\MemberService.cpp",
+              "ToolTip": "C:\\cplusworks\\Classes\\Classes\\MemberService.cpp",
+              "RelativeToolTip": "Classes\\MemberService.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswCIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T00:08:42.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Transport.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Classes\\Classes\\Transport.cpp",
               "RelativeDocumentMoniker": "Classes\\Transport.cpp",
               "ToolTip": "C:\\cplusworks\\Classes\\Classes\\Transport.cpp",
               "RelativeToolTip": "Classes\\Transport.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-05T02:22:06.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "PointerCircle.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Classes\\Classes\\PointerCircle.cpp",
               "RelativeDocumentMoniker": "Classes\\PointerCircle.cpp",
@@ -63,11 +97,12 @@
               "RelativeToolTip": "Classes\\PointerCircle.cpp",
               "ViewState": "AgIAAB0AAAAAAAAAAAAswDoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-05T01:39:43.189Z"
+              "WhenOpened": "2025-04-05T01:39:43.189Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "BirthdayThis.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Classes\\Classes\\BirthdayThis.cpp",
               "RelativeDocumentMoniker": "Classes\\BirthdayThis.cpp",
@@ -75,11 +110,12 @@
               "RelativeToolTip": "Classes\\BirthdayThis.cpp",
               "ViewState": "AgIAAAcAAAAAAAAAAAAswCEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-05T01:15:19.817Z"
+              "WhenOpened": "2025-04-05T01:15:19.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Books.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Classes\\Classes\\Books.cpp",
               "RelativeDocumentMoniker": "Classes\\Books.cpp",
@@ -87,11 +123,12 @@
               "RelativeToolTip": "Classes\\Books.cpp",
               "ViewState": "AgIAACUAAAAAAAAAAAAswEIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-30T01:42:34.876Z"
+              "WhenOpened": "2025-03-30T01:42:34.876Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Book1.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Classes\\Classes\\Book1.cpp",
               "RelativeDocumentMoniker": "Classes\\Book1.cpp",
@@ -99,11 +136,12 @@
               "RelativeToolTip": "Classes\\Book1.cpp",
               "ViewState": "AgIAACEAAAAAAAAAAAAuwCkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-30T01:21:52.255Z"
+              "WhenOpened": "2025-03-30T01:21:52.255Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Dog2.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Classes\\Classes\\Dog2.cpp",
               "RelativeDocumentMoniker": "Classes\\Dog2.cpp",
@@ -111,11 +149,12 @@
               "RelativeToolTip": "Classes\\Dog2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-30T00:44:12.415Z"
+              "WhenOpened": "2025-03-30T00:44:12.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Dog1.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Classes\\Classes\\Dog1.cpp",
               "RelativeDocumentMoniker": "Classes\\Dog1.cpp",
@@ -123,7 +162,8 @@
               "RelativeToolTip": "Classes\\Dog1.cpp",
               "ViewState": "AgIAABMAAAAAAAAAAAAuwDAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-30T00:28:00.699Z"
+              "WhenOpened": "2025-03-30T00:28:00.699Z",
+              "EditorCaption": ""
             }
           ]
         }

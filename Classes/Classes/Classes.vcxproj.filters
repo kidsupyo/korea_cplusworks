@@ -36,5 +36,11 @@
     <ClCompile Include="Transport.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="MemberService.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="InputPoint.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
